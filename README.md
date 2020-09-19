@@ -6,6 +6,16 @@ In the project directory, you can run:
 
 ### `npm start`
 
+## Unfollow
+$ npm install --global github-unfollow-everyone
+$ github-unfollow-everyone <username> <password>
+
+
+##API
+
+$ npm install --save github-unfollow-everyone
+
+
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
